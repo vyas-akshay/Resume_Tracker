@@ -2,6 +2,8 @@ YouTube Video Summarizer with Google Gemini Model
 
 Welcome to the YouTube Video Summarizer app powered by the Google Gemini Language Model! This application utilizes advanced language processing techniques to summarize YouTube videos quickly and efficiently. With a user-friendly interface built using Streamlit, users can easily input a video link and obtain a concise summary of its content.
 
+Link to APP: https://youtubevideosummary-akshay.streamlit.app/
+
 Features:
 
 YouTube Link Input: Users can input the link to any YouTube video they want to summarize.
